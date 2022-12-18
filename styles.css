@@ -186,7 +186,8 @@ body {
   }
   .group img:nth-child(2) {
     height: 10rem;
-    width: 100%;
+   width: 20rem;
+   
   }
 
   .group {
