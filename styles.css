@@ -41,6 +41,9 @@ body {
   width: 50%;
   min-height: 34rem;
 }
+.instagram-continue img {
+  max-width: 100%;
+}
 
 .group {
   display: flex;
@@ -183,11 +186,12 @@ body {
   .group img:nth-child(1) {
     height: 10rem;
     width: 10rem;
+    max-width: 100%;
   }
   .group img:nth-child(2) {
     height: 10rem;
-   width: 20rem;
-   
+    width: 20rem;
+    max-width: 100%;
   }
 
   .group {
